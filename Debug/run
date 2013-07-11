@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "rebuilding..."
+make clean
+make all
